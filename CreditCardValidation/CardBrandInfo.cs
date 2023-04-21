@@ -40,9 +40,14 @@
                 @"^636760"
            );
 
+        public readonly static CardBrandInfo Credsystem = new CardBrandInfo(
+               CardBrandType.Credsystem,
+               @"^628028"
+          );
+
         public readonly static CardBrandInfo Banescard = new CardBrandInfo(
                 CardBrandType.Banescard,
-                @"^636117|^637473|^637470|^637472|^650725|^650046|^650591|^651668|^651679|^628028"
+                @"^636117|^637473|^637470|^637472|^650725|^650046|^650591|^651668|^651679|^603182"
            );
 
         public readonly static CardBrandInfo Cabal = new CardBrandInfo(

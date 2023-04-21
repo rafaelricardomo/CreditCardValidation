@@ -11,6 +11,7 @@ namespace CreditCardValidation
            CardBrandInfo.Hipercard,
            CardBrandInfo.Hiper,
            CardBrandInfo.Credz,
+            CardBrandInfo.Credsystem,
             CardBrandInfo.Banescard,
            CardBrandInfo.Cabal,
            CardBrandInfo.Sorocred,

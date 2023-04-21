@@ -6,6 +6,7 @@
         Hipercard,
         Hiper,
         Credz,
+        Credsystem,
         Banescard,
         Sorocred,
         Cabal,
